@@ -1,0 +1,19 @@
+/* 
+ * Toolbar Font
+ *
+ * Version: 1.0.1
+ */
+
+
+@font-face {
+    font-family: 'Lato';
+    src: url('fonts/lato-regular-webfont.eot');
+    src: url('fonts/lato-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/lato-regular-webfont.woff2') format('woff2'),
+         url('fonts/lato-regular-webfont.woff') format('woff'),
+         url('fonts/lato-regular-webfont.ttf') format('truetype'),
+         url('fonts/lato-regular-webfont.svg#Lato') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
